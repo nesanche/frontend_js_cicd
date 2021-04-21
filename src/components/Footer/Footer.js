@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      Footer
+      Pie de pagina clase 23 Santiago Anrango
     </footer>
   );
 }
