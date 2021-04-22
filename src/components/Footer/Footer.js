@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      Testing change in code
+      This is the new feature of the page
     </footer>
   );
 }
