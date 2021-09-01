@@ -23,7 +23,7 @@ const Home = (props) => {
         type="text"
         value={searchText}
         onChange={inputHandler}
-        placeholder="Busca tu producto"
+        placeholder="Aca encontras lo que quieras"
         />
         <button type="submit" className="home-button">
           <svg
